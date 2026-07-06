@@ -48,7 +48,7 @@ export default function Home({ user, onLogout }) {
         "Open the CIMS landing page and continue to portal services.",
       icon: <DashboardRoundedIcon sx={{ fontSize: 34 }} />,
       color: "#1d4ed8",
-      target: "https://cims.iitdh.ac.in/default/landingpage.html",
+      target: "https://cims.iitdh.ac.in/default/Pages/Portal/PortalInfrastructure.html",
     },
     {
       title: "Inventory",
