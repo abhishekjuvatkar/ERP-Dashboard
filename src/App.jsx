@@ -85,7 +85,7 @@ export default function App() {
       <Route
         path="/cims"
         element={
-          <ExternalRedirect to="https://cims.iitdh.ac.in/default/landingpage.html" />
+          <ExternalRedirect to="https://cims.iitdh.ac.in/default/Pages/Portal/PortalInfrastructure.html" />
         }
       />
       <Route path="*" element={<Navigate to="/" replace />} />
